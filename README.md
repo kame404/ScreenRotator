@@ -1,5 +1,7 @@
 # Screen Rotator
 
+<img width="1009" height="450" alt="screenshot" src="https://github.com/user-attachments/assets/23541d80-c8b2-47a3-9869-8d6e3b5c5d0c" />
+
 「Ctrl + Alt + 矢印キー」による画面回転機能を、Windows OS標準APIのみを用いて再現するユーティリティです。
 
 C言語とWin32 APIで記述されており、ランタイムやフレームワークに依存しません。
